@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style-type: none;
+}
+
+body {
+  font-family: sans-serif, monospace;
+  background: #999;
+}/*# sourceMappingURL=App.css.map */
